@@ -4,4 +4,4 @@ I'm 20 years old and new to programming. If you have any advice for someone new 
 
 
 ***************************
-![](https://i.imgur.com/UiNkRBe.jpg)
+![](https://i.imgur.com/PvbtSOH.jpg)
