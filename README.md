@@ -7,4 +7,4 @@ I'm 20 years old and new to programming. If you have any advice for someone new 
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=meralhamarat&color=green">
 </p>
-***************************
+
