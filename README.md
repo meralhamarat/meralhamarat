@@ -1,12 +1,16 @@
-### Hi there! 👋😊
-***************************
-Hi, I’m Meral Hamarat, a 22-year-old Computer Science student now in my final year at Tekirdag Namik Kemal University, Turkey.
-
-I’m actively developing my programming skills, passionate about learning, and eager to take on new challenges. I’d appreciate any advice or mentorship from experienced developers to help me grow.
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=meralhamarat&color=green">
+  <b>I'm <span style="color:#ff4d6d;">Meral Hamarat</span></b>, a <b>22-year-old</b> <i>final-year Computer Science student</i> at <b>Tekirdag Namik Kemal University, Turkey</b>.
 </p>
 
+<p align="center">
+  🚀 Passionate about technology and continuous learning,<br>
+  💻 Actively enhancing my programming skills,<br>
+  🎯 Always eager to take on new challenges.<br>
+</p>
+
+<p align="center">
+  🤝 Open to mentorship and collaboration to grow and contribute meaningfully in the tech world.
+</p>
 ### 👩‍💻 Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
