@@ -1,8 +1,8 @@
 ### Hi there! 👋😊
 ***************************
-It's Meral Hamarat. I am currently a second-year Computer Science student at Tekirdag Namik Kemal University in Türkiye.
+I’m Meral Hamarat — a 22-year-old Computer Science student currently in my second year at Tekirdag Namik Kemal University, Turkey.
 
-I'm 21 years old and new to programming. If you have any advice for someone new to programming, I'd love to hear it!
+While I’m still growing my programming skills, I’m passionate about learning and eager to take on new challenges. I welcome any advice or guidance from experienced developers to help me improve.
 ***************************
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=meralhamarat&color=green">
