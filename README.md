@@ -7,18 +7,26 @@ I’m actively developing my programming skills, passionate about learning, and 
     <img id="preview" src="https://komarev.com/ghpvc/?username=meralhamarat&color=green">
 </p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 👩‍💻 Skills
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-1A2F5B?style=for-the-badge&logo=seaborn&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+
 
 ### 📊 GitHub Stats
 
-![Meral's GitHub stats](https://github-readme-stats.vercel.app/api?username=meralhamarat&show_icons=true&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meralhamarat&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meralhamarat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ### 👀 Profile Views
@@ -29,9 +37,8 @@ I’m actively developing my programming skills, passionate about learning, and 
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meral%20Hamarat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meralhamarat)  
-[![Twitter](https://img.shields.io/badge/Twitter-@meralhamarat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meralhamarat)  
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-meralhamarat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meralhamarat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meral%20Hamarat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meral-hamarata2702b252/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-meralhamarat-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/meralhamarat/)
 
 Thanks for visiting! 😊
